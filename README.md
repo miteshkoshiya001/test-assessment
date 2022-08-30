@@ -20,3 +20,4 @@ Assessment Coding Test
  - *getType()* return the type of message
   - possible message types are `system` and `manual`
   - *getTime()* return formatted date in `Y-m-d H:i:s` format.
+  - *send()* will send/save message.
